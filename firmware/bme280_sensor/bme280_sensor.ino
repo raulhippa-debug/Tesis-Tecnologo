@@ -1,6 +1,4 @@
-// Tesis Tecnólogo - Anexo 6.9.1, página 66.
-// Transcripción del programa del documento con normalización tipográfica.
-// No validado en hardware en esta entrega.
+
 
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
