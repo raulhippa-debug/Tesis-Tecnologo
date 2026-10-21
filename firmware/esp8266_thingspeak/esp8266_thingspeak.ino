@@ -1,8 +1,4 @@
-// Tesis Tecnólogo - Anexo 6.11, páginas 70-71.
-// Transcripción del programa del documento con normalización tipográfica.
-// AVISO: el POST HTTP procede del PDF y no se ha validado. Revisar el
-// formato de cuerpo/cabeceras con la API vigente de ThingSpeak.
-// Sustituir placeholders solo en una copia local que NO se suba a GitHub.
+
 
 #include <NTPClient.h>
 #include <WiFiUdp.h>
