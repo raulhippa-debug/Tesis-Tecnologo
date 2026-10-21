@@ -1,6 +1,4 @@
-// Tesis Tecnólogo - Anexo 6.9.3, páginas 67-68.
-// Transcripción del programa del documento con normalización tipográfica.
-// No validado en hardware en esta entrega.
+
 
 #include <HX711_ADC.h>
 #include <EEPROM.h>
