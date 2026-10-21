@@ -1,8 +1,3 @@
-// Tesis Tecnólogo - Anexo 6.9.2, página 67.
-// Transcripción del programa del documento con normalización tipográfica.
-// ADVERTENCIA: el while con temperatura >= 85 puede bloquear la ejecución
-// porque no actualiza Temperatura dentro del bucle. Revisar antes de usar
-// como protección térmica real. No validado en hardware en esta entrega.
 
 #include "max6675.h"
 
