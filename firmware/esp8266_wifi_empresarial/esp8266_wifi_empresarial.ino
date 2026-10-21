@@ -1,9 +1,3 @@
-// Tesis Tecnólogo - Anexo 6.10, página 69.
-// Transcripción del programa del documento con normalización tipográfica.
-// Para ESP8266 con versión del SDK/core compatible con estas APIs heredadas.
-// No introducir credenciales reales en un repositorio público.
-// NOTA: target_esp_mac está copiado del PDF; comprobar si pertenece a un
-// dispositivo real antes de publicar/emplear este ejemplo.
 
 #include <ESP8266WiFi.h>
 #include <user_interface.h>
